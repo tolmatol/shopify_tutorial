@@ -1,1 +1,1 @@
-#Shopify theme development
+# Theme Setup
