@@ -1,1 +1,1 @@
-# Theme Setup new 2022
+# Theme Setup new
